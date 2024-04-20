@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=insurmountableperson)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hermes1030&hide=css,html)](https://github.com/Hermes1030/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hermes1030&hide=css,html,javascript)](https://github.com/Hermes1030/github-readme-stats)
