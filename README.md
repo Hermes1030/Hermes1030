@@ -1,7 +1,6 @@
 ## 👋 Hi there! I'm Weirdo, a recent university graduate passionate about coding. 
 ### 🚀 I specialize in Python, Java, and web scraping. 
 ### 💬 Always eager to learn and collaborate on exciting projects. 
-#### ⚡    Click Count  
 ![](https://komarev.com/ghpvc/?username=insurmountableperson)
 <!--
 **Insurmountableperson/insurmountableperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
